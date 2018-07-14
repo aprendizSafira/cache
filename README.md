@@ -1,0 +1,5 @@
+O que é um cache?
+Quando você acessa um site ou sistema a primeira vez. Aquele sistema vai processar todas as informações necessaria para exiber alguma informação. Quando você acessa o G1, por exemplo,  ele não vai processar todas as nóticias que ele vai mostrar, em qual posição vai ficar, a quantidade de comentários e etc. Todas as milhares de informações que tem página inicial do G1, elas não são processadas na hora que você acessa o site. Elas já estão no cache do servidor do G1, ou seja, ela já foi processada por uma maquina e só o resultado que ficou salvo lá.
+Então, quando você acessa o site do G1 você só ve o resultado do processamento que aquela máquina interna fez. O cache é justamente isso: ele só pega o resultado pós-processado. Isso faz com que a página carregue mais rápido.
+
+--Cache Básico: o Cache nada mais é do que salvar o valor e não é a única forma e nem a melhor forma é simplismente a mais usada. O cache é feito salvando os dados num arquivo no servidor para eu poder pegar ele quando eu quiser.
